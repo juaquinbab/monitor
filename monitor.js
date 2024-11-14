@@ -117,7 +117,7 @@ client.on('message', async (message) => {
     client.sendMessage('573209138009@c.us', 'Este es un mensaje de prueba para monitorear el robot.');
     client.sendMessage('573132502527@c.us', 'Este es un mensaje de prueba para monitorear el robot.');
     //client.sendMessage('573128284306@c.us', 'Este es un mensaje de prueba para monitorear el robot.');
-  }, 3600000); // 3000 milisegundos = 3 segundos
+  }, 7200000); // 3000 milisegundos = 3 segundos
 
 
 
